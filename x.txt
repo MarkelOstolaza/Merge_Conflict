@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este es el archivo x.txt
+=======
+Este tambien es un archivo x.txt
+>>>>>>> pruebas
